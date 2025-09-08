@@ -1,0 +1,14 @@
+[
+  {
+    "shortUrl": "http://localhost:5000/fullstack",
+    "expiresAt": "2025-09-08T10:09:52.281Z"
+  },
+  {
+    "shortUrl": "http://localhost:5000/ash",
+    "expiresAt": "2025-09-08T09:46:48.352Z"
+  },
+  {
+    "shortUrl": "http://localhost:5000/sn",
+    "expiresAt": "2025-09-08T09:45:34.924Z"
+  }
+]
